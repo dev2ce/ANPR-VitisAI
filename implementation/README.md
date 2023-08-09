@@ -36,7 +36,9 @@ sudo apt install minicom -y
 sudo minicom -D /dev/ttyUSB1
 ```
 Cấu hình UART như sau:
+
 Bps / Par / Bits: 115200 8N1
+
 Hardware Flow Control: No
 
 6) Chạy chương trình thực thi trên board
